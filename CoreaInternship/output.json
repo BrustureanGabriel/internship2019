@@ -1,0 +1,35 @@
+{
+  "output": {
+    "holidayRightsPerYearList": [
+      {
+        "year": "2011",
+        "holidayDays": "4"
+      },
+      {
+        "year": "2012",
+        "holidayDays": "20"
+      },
+      {
+        "year": "2013",
+        "holidayDays": "2"
+      },
+      {
+        "year": "2014",
+        "holidayDays": "1"
+      },
+      {
+        "year": "2015",
+        "holidayDays": "24"
+      },
+      {
+        "year": "2016",
+        "holidayDays": "24"
+      },
+      {
+        "year": "2017",
+        "holidayDays": "20"
+      }
+    ],
+    "errorMessage": "  main.java.dto.EmployeeDTO@4e50df2e;\n main.java.dto.SuspensionDTO@1d81eb93;\n main.java.dto.SuspensionDTO@7291c18f;\n main.java.dto.SuspensionDTO@34a245ab;\n main.java.dto.SuspensionDTO@7cc355be;\n "
+  }
+}
